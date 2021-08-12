@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>972D37F7-436B-40F8-A49D-44074622DCE1</key>
+		<key>CEB5CEC0-29AF-4A9F-A126-A24E9BC8387B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>972D37F7-436B-40F8-A49D-44074622DCE1.xcactivitylog</string>
+			<string>CEB5CEC0-29AF-4A9F-A126-A24E9BC8387B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>Renda-eixpgroyxvjiuqfripeuijxiyhul</string>
 			<key>timeStartedRecording</key>
-			<real>650421735.62748003</real>
+			<real>650481685.07869601</real>
 			<key>timeStoppedRecording</key>
-			<real>650421735.995502</real>
+			<real>650481688.90164196</real>
 			<key>title</key>
 			<string>Build target Renda</string>
 			<key>uniqueIdentifier</key>
-			<string>972D37F7-436B-40F8-A49D-44074622DCE1</string>
+			<string>CEB5CEC0-29AF-4A9F-A126-A24E9BC8387B</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

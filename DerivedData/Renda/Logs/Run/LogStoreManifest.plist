@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>C73CF8B0-4EF8-46FA-B222-465C2078C125</string>
 		</dict>
+		<key>DFA4C76C-6B47-401E-8535-4C6095F2DC03</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DFA4C76C-6B47-401E-8535-4C6095F2DC03.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Renda project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Renda</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Renda</string>
+			<key>timeStartedRecording</key>
+			<real>650480530.25021601</real>
+			<key>timeStoppedRecording</key>
+			<real>650481685.14907002</real>
+			<key>title</key>
+			<string>Run Renda</string>
+			<key>uniqueIdentifier</key>
+			<string>DFA4C76C-6B47-401E-8535-4C6095F2DC03</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

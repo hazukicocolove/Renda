@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
 options: "a37af6971533263c791591766caa6617"
-build_time: [1628728429, 556973000]
+build_time: [1628788849, 577910000]
 inputs:
-  "/Users/hazuki/Desktop/13/la/lifeistech/Renda/Renda/ViewController.swift": [1628728425, 1139810]
+  "/Users/hazuki/Desktop/13/la/lifeistech/Renda/Renda/ViewController.swift": [1628788849, 484600108]
   "/Users/hazuki/Desktop/13/la/lifeistech/Renda/Renda/AppDelegate.swift": [1628728424, 988777758]
   "/Users/hazuki/Desktop/13/la/lifeistech/Renda/Renda/SceneDelegate.swift": [1628728424, 999325860]

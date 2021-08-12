@@ -236,13 +236,18 @@ SWIFT_CLASS("_TtC5Renda13SceneDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UILabel;
+@class UIButton;
 @class NSString;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC5Renda14ViewController")
 @interface ViewController : UIViewController
+@property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified countLabel;
+@property (nonatomic, strong) IBOutlet UIButton * _Null_unspecified tapButton;
 - (void)viewDidLoad;
+- (IBAction)tapTapButton;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end

@@ -40,6 +40,74 @@
 			<key>uniqueIdentifier</key>
 			<string>41048B05-1A55-4CDB-8F34-99789EB68F67</string>
 		</dict>
+		<key>6E43476B-85D8-4412-968E-2EBE63517619</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E43476B-85D8-4412-968E-2EBE63517619.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Renda project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Renda</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Renda</string>
+			<key>timeStartedRecording</key>
+			<real>650481684.92180598</real>
+			<key>timeStoppedRecording</key>
+			<real>650481688.90797997</real>
+			<key>title</key>
+			<string>Build Renda</string>
+			<key>uniqueIdentifier</key>
+			<string>6E43476B-85D8-4412-968E-2EBE63517619</string>
+		</dict>
+		<key>9E0E1048-736E-4A2E-BA36-B3DF64504BC1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E0E1048-736E-4A2E-BA36-B3DF64504BC1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Renda project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Renda</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Renda</string>
+			<key>timeStartedRecording</key>
+			<real>650480525.46379697</real>
+			<key>timeStoppedRecording</key>
+			<real>650480530.20889997</real>
+			<key>title</key>
+			<string>Build Renda</string>
+			<key>uniqueIdentifier</key>
+			<string>9E0E1048-736E-4A2E-BA36-B3DF64504BC1</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
